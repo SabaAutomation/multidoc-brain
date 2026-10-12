@@ -1,0 +1,305 @@
+[
+  {
+    "id": "q01",
+    "question": "What are the standard working hours?",
+    "gold": [
+      "9:00",
+      "17:30"
+    ],
+    "kind": "prose",
+    "file": "employee_handbook.docx"
+  },
+  {
+    "id": "q02",
+    "question": "How long is the probation period?",
+    "gold": [
+      "90"
+    ],
+    "kind": "prose",
+    "file": "employee_handbook.docx"
+  },
+  {
+    "id": "q03",
+    "question": "On which days can employees work remotely?",
+    "gold": [
+      "wednesday",
+      "friday"
+    ],
+    "kind": "prose",
+    "file": "employee_handbook.docx"
+  },
+  {
+    "id": "q04",
+    "question": "What is the daily meal reimbursement limit?",
+    "gold": [
+      "45"
+    ],
+    "kind": "prose",
+    "file": "expense_policy.pdf"
+  },
+  {
+    "id": "q05",
+    "question": "Above what amount are receipts required?",
+    "gold": [
+      "25"
+    ],
+    "kind": "prose",
+    "file": "expense_policy.pdf"
+  },
+  {
+    "id": "q06",
+    "question": "Who must approve expenses above $500?",
+    "gold": [
+      "director"
+    ],
+    "kind": "prose",
+    "file": "expense_policy.pdf"
+  },
+  {
+    "id": "q07",
+    "question": "Within how many days must expense claims be submitted?",
+    "gold": [
+      "30"
+    ],
+    "kind": "prose",
+    "file": "expense_policy.pdf"
+  },
+  {
+    "id": "q08",
+    "question": "How many days do customers have to return an item?",
+    "gold": [
+      "30"
+    ],
+    "kind": "prose",
+    "file": "customer_faq.md"
+  },
+  {
+    "id": "q09",
+    "question": "What order value qualifies for free shipping?",
+    "gold": [
+      "75"
+    ],
+    "kind": "prose",
+    "file": "customer_faq.md"
+  },
+  {
+    "id": "q10",
+    "question": "What are the customer support hours?",
+    "gold": [
+      "08:00|8:00|8 am|8am",
+      "20:00|8 pm|8pm"
+    ],
+    "kind": "prose",
+    "file": "customer_faq.md"
+  },
+  {
+    "id": "q11",
+    "question": "How long is the warranty on Ridge Boots?",
+    "gold": [
+      "2 years|two years|24 months"
+    ],
+    "kind": "prose",
+    "file": "customer_faq.md"
+  },
+  {
+    "id": "q12",
+    "question": "On what date will the Denver store open?",
+    "gold": [
+      "march 3|3 march|3rd march|march 3rd"
+    ],
+    "kind": "prose",
+    "file": "meeting_notes_2025-09.docx"
+  },
+  {
+    "id": "q13",
+    "question": "What is the approved budget for the Denver store?",
+    "gold": [
+      "240000"
+    ],
+    "kind": "prose",
+    "file": "meeting_notes_2025-09.docx"
+  },
+  {
+    "id": "q14",
+    "question": "Who owns the Denver opening?",
+    "gold": [
+      "priya nair"
+    ],
+    "kind": "prose",
+    "file": "meeting_notes_2025-09.docx"
+  },
+  {
+    "id": "q15",
+    "question": "How many associates will be hired for the new store?",
+    "gold": [
+      "6|six"
+    ],
+    "kind": "prose",
+    "file": "meeting_notes_2025-09.docx"
+  },
+  {
+    "id": "q16",
+    "question": "How many annual leave days does a Senior employee get?",
+    "gold": [
+      "22"
+    ],
+    "kind": "docx_table",
+    "file": "employee_handbook.docx"
+  },
+  {
+    "id": "q17",
+    "question": "How many sick days does a Manager get?",
+    "gold": [
+      "12"
+    ],
+    "kind": "docx_table",
+    "file": "employee_handbook.docx"
+  },
+  {
+    "id": "q18",
+    "question": "How many annual leave days does an Associate get?",
+    "gold": [
+      "18"
+    ],
+    "kind": "docx_table",
+    "file": "employee_handbook.docx"
+  },
+  {
+    "id": "q19",
+    "question": "What is the price of the Ridge Boots?",
+    "gold": [
+      "154"
+    ],
+    "kind": "xlsx",
+    "file": "price_list.xlsx"
+  },
+  {
+    "id": "q20",
+    "question": "How many Summit Backpacks are in stock?",
+    "gold": [
+      "17"
+    ],
+    "kind": "xlsx",
+    "file": "price_list.xlsx"
+  },
+  {
+    "id": "q21",
+    "question": "Which product is out of stock?",
+    "gold": [
+      "camp stove"
+    ],
+    "kind": "xlsx",
+    "file": "price_list.xlsx"
+  },
+  {
+    "id": "q22",
+    "question": "What discount does the Silver tier get?",
+    "gold": [
+      "8%|8 percent|8 %"
+    ],
+    "kind": "xlsx",
+    "file": "price_list.xlsx"
+  },
+  {
+    "id": "q23",
+    "question": "What is the minimum order for the Gold tier?",
+    "gold": [
+      "5000"
+    ],
+    "kind": "xlsx",
+    "file": "price_list.xlsx"
+  },
+  {
+    "id": "q24",
+    "question": "What was the West region's revenue in Q3?",
+    "gold": [
+      "205750"
+    ],
+    "kind": "xlsx",
+    "file": "quarterly_sales.xlsx"
+  },
+  {
+    "id": "q25",
+    "question": "How many units did the South region sell in Q3?",
+    "gold": [
+      "1022"
+    ],
+    "kind": "xlsx",
+    "file": "quarterly_sales.xlsx"
+  },
+  {
+    "id": "q26",
+    "question": "What is the lead time for Summit Packaging?",
+    "gold": [
+      "9"
+    ],
+    "kind": "csv",
+    "file": "vendors.csv"
+  },
+  {
+    "id": "q27",
+    "question": "Which vendor supplies fabric?",
+    "gold": [
+      "alpine textiles"
+    ],
+    "kind": "csv",
+    "file": "vendors.csv"
+  },
+  {
+    "id": "q28",
+    "question": "What is the lead time for Northwind Freight?",
+    "gold": [
+      "5"
+    ],
+    "kind": "csv",
+    "file": "vendors.csv"
+  },
+  {
+    "id": "q29",
+    "question": "Where is the fire assembly point?",
+    "gold": [
+      "north car park"
+    ],
+    "kind": "scanned",
+    "file": "scanned_safety_notice.pdf"
+  },
+  {
+    "id": "q30",
+    "question": "Who is the safety officer?",
+    "gold": [
+      "daniel okoye"
+    ],
+    "kind": "scanned",
+    "file": "scanned_safety_notice.pdf"
+  },
+  {
+    "id": "q31",
+    "question": "How often are evacuation drills held?",
+    "gold": [
+      "6 months|six months"
+    ],
+    "kind": "scanned",
+    "file": "scanned_safety_notice.pdf"
+  },
+  {
+    "id": "q32",
+    "question": "What is the CEO's annual salary?",
+    "gold": [],
+    "kind": "unanswerable",
+    "file": ""
+  },
+  {
+    "id": "q33",
+    "question": "What is the price of the Alpine Tent?",
+    "gold": [],
+    "kind": "unanswerable",
+    "file": ""
+  },
+  {
+    "id": "q34",
+    "question": "When will the Seattle store open?",
+    "gold": [],
+    "kind": "unanswerable",
+    "file": ""
+  }
+]
